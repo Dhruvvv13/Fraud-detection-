@@ -1,0 +1,18 @@
+# Dataset
+data/
+
+# Trained Models
+models/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
