@@ -20,8 +20,9 @@ df = df.drop_duplicates()
 print("\nShape After Removing Duplicates:", df.shape)
 
 
-X = df.drop("Class", axis=1)
-y = df["Class"]
+X = df.drop("Class", axis=1)  # X = Everything except Class , axis 1 = columns 
+y = df["Class"]               # y = Only Class
+
 
 
 
