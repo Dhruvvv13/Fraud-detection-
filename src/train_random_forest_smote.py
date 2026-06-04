@@ -42,7 +42,7 @@ print("\nAfter SMOTE:")
 print(pd.Series(y_train_smote).value_counts())
 
 model = RandomForestClassifier(                   # Random Forest Model
-    n_estimators=100,
+    n_estimators=20,
     random_state=42,
     n_jobs=-1
 )
