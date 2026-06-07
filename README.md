@@ -92,22 +92,6 @@ The following preprocessing steps were performed:
 | Random Forest + SMOTE | 0.8987 | 0.7474 | 0.8161 |
 
 ---
-
-##  Best Model
-
-### Random Forest Classifier
-
-Performance:
-
-| Metric | Score |
-|----------|----------|
-| Accuracy | 99.95% |
-| Precision | 97.18% |
-| Recall | 72.63% |
-| F1 Score | 83.13% |
-
----
-
 ##  Hyperparameter Tuning
 
 Technique Used:
