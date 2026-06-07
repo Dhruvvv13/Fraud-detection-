@@ -135,7 +135,7 @@ Best Cross Validation Score:
 
 ---
 
-## 🌐 Deployment Architecture
+##  Deployment Architecture
 
 ```mermaid
 flowchart TD
